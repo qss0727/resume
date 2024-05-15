@@ -1,2 +1,2 @@
-# resume
-我的简历
+# Hi,here 👋
+Welcome to my page!
